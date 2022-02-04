@@ -1,0 +1,5 @@
+This file contains some numbers (and text).
+4, 5, 6, 12
+12.3 37.2 -15.7
+
+This is the last line.
